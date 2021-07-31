@@ -1,0 +1,41 @@
+body{
+    background-image: url(./image/bg.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    backface-visibility:hidden;
+    font-family: "Poppins", sans-serif;
+}
+.head{
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+}
+.para{
+    color: black;
+    font-size: large;
+}
+.pic1{
+    padding: 30px 500px 10px 450px; 
+    
+}
+.pic2{
+    padding: 30px 500px 10px 550px; 
+    
+}
+
+.head1{
+    font-weight: bolder;
+    color: black;
+    
+}
+a{
+    color:yellow;
+
+}
+a:hover{
+    color:red;
+
+}
+a:visited{
+    color:teal;
+}
